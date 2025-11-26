@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Copper Fungicide 1L",
+    "price": 450,
+    "category": "Fungicide",
+    "image": "static/products/copper_fungicide.jpg",
+    "description": "Broad-spectrum copper fungicide for bacterial and fungal leaf spots and blights."
+  },
+  {
+    "id": 2,
+    "name": "Mancozeb Fungicide",
+    "price": 340,
+    "category": "Fungicide",
+    "image": "static/products/mancozeb.jpg",
+    "description": "Protectant fungicide effective against Alternaria and early blight."
+  },
+  {
+    "id": 3,
+    "name": "Chlorothalonil Spray",
+    "price": 360,
+    "category": "Fungicide",
+    "image": "static/products/chlorothalonil.jpg",
+    "description": "Multi-site protectant fungicide for leaf spot and blight control."
+  },
+  {
+    "id": 4,
+    "name": "Systemic Blight Controller",
+    "price": 620,
+    "category": "Fungicide (Systemic)",
+    "image": "static/products/systemic_blight.jpg",
+    "description": "Systemic oomycete fungicide for late blight management."
+  },
+  {
+    "id": 5,
+    "name": "Neem Oil 500ml",
+    "price": 220,
+    "category": "Organic",
+    "image": "static/products/neem_oil.jpg",
+    "description": "Organic neem oil for mites, whiteflies and fungal suppression."
+  },
+  {
+    "id": 6,
+    "name": "Bio-Bactericide",
+    "price": 299,
+    "category": "Biocontrol",
+    "image": "static/products/bio_bactericide.jpg",
+    "description": "Biological control product to reduce bacterial spot pressure on tomatoes and peppers."
+  },
+  {
+    "id": 7,
+    "name": "Sulfur Fungicide",
+    "price": 180,
+    "category": "Fungicide",
+    "image": "static/products/sulfur.jpg",
+    "description": "Sulfur-based fungicide for powdery mildew and other surface fungal problems."
+  },
+  {
+    "id": 8,
+    "name": "Whitefly Sticky Traps (pack)",
+    "price": 120,
+    "category": "Pest Control",
+    "image": "static/products/sticky_traps.jpg",
+    "description": "Sticky yellow traps for monitoring and reducing whitefly populations."
+  },
+  {
+    "id": 9,
+    "name": "Organic Mite Killer",
+    "price": 210,
+    "category": "Pest Control",
+    "image": "static/products/mite_killer.jpg",
+    "description": "Miticide for control of two-spotted spider mites."
+  },
+  {
+    "id": 10,
+    "name": "Sanitizer for Tools",
+    "price": 80,
+    "category": "Sanitizer",
+    "image": "static/products/sanitizer.jpg",
+    "description": "Alcohol-based sanitizer to disinfect hand tools and reduce spread of viruses and bacteria."
+  }
+]

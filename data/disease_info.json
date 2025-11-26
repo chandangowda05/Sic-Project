@@ -1,0 +1,107 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "display_name": "Bell Pepper — Bacterial Spot",
+    "description": "Bacterial infection causing leaf spots and fruit lesions.",
+    "prevention": "Use disease-free seeds, avoid overhead irrigation, rotate crops.",
+    "treatment": "Apply copper-based bactericides and remove infected leaves.",
+    "recommended_products": ["Copper Fungicide", "Organic Bactericide"]
+  },
+  "Pepper__bell___healthy": {
+    "display_name": "Bell Pepper — Healthy",
+    "description": "No disease detected.",
+    "prevention": "Maintain good watering and nutrition.",
+    "treatment": "None required.",
+    "recommended_products": []
+  },
+  "Potato___Early_blight": {
+    "display_name": "Potato — Early Blight",
+    "description": "Fungal disease causing brown concentric rings on leaves.",
+    "prevention": "Use certified seeds, avoid waterlogging.",
+    "treatment": "Use Mancozeb or Chlorothalonil fungicides.",
+    "recommended_products": ["Mancozeb Fungicide", "Chlorothalonil"]
+  },
+  "Potato___Late_blight": {
+    "display_name": "Potato — Late Blight",
+    "description": "Severe fungal disease causing dark lesions and plant rot.",
+    "prevention": "Maintain spacing, avoid moisture buildup.",
+    "treatment": "Use Metalaxyl or Copper oxychloride.",
+    "recommended_products": ["Metalaxyl", "Copper Oxychloride"]
+  },
+  "Potato___healthy": {
+    "display_name": "Potato — Healthy",
+    "description": "No infection detected.",
+    "prevention": "Continue good agricultural practices.",
+    "treatment": "None required.",
+    "recommended_products": []
+  },
+  "Tomato_Bacterial_spot": {
+    "display_name": "Tomato — Bacterial Spot",
+    "description": "Bacterial disease causing black leaf spots and lesions.",
+    "prevention": "Use clean seeds, avoid overhead watering.",
+    "treatment": "Apply copper bactericides.",
+    "recommended_products": ["Copper Fungicide"]
+  },
+  "Tomato_Early_blight": {
+    "display_name": "Tomato — Early Blight",
+    "description": "Fungal disease causing brown leaf spots.",
+    "prevention": "Ensure good airflow, avoid wet leaves.",
+    "treatment": "Use Mancozeb or Chlorothalonil.",
+    "recommended_products": ["Mancozeb Fungicide", "Chlorothalonil"]
+  },
+  "Tomato_Late_blight": {
+    "display_name": "Tomato — Late Blight",
+    "description": "Highly destructive fungal disease causing dark lesions.",
+    "prevention": "Keep plants dry, space properly.",
+    "treatment": "Apply Metalaxyl or Copper-based fungicides.",
+    "recommended_products": ["Metalaxyl", "Copper Fungicide"]
+  },
+  "Tomato_Leaf_Mold": {
+    "display_name": "Tomato — Leaf Mold",
+    "description": "Yellow patches on the upper leaf and fuzzy mold underneath.",
+    "prevention": "Improve ventilation and reduce humidity.",
+    "treatment": "Use sulfur-based fungicides.",
+    "recommended_products": ["Sulfur Fungicide"]
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "display_name": "Tomato — Septoria Leaf Spot",
+    "description": "Circular brown spots on lower leaves.",
+    "prevention": "Avoid leaf wetting, remove infected leaves.",
+    "treatment": "Apply Chlorothalonil.",
+    "recommended_products": ["Chlorothalonil"]
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "display_name": "Tomato — Spider Mites",
+    "description": "Tiny pests causing leaf discoloration and webbing.",
+    "prevention": "Maintain humidity and avoid plant stress.",
+    "treatment": "Use neem oil or miticides.",
+    "recommended_products": ["Neem Oil", "Miticide"]
+  },
+  "Tomato__Target_Spot": {
+    "display_name": "Tomato — Target Spot",
+    "description": "Small brown spots expanding into target-like rings.",
+    "prevention": "Proper spacing and avoid water on leaves.",
+    "treatment": "Use Copper fungicide or Mancozeb.",
+    "recommended_products": ["Copper Fungicide", "Mancozeb Fungicide"]
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "display_name": "Tomato — Yellow Leaf Curl Virus",
+    "description": "Virus spread by whiteflies causing curling & yellowing.",
+    "prevention": "Control whiteflies, use resistant varieties.",
+    "treatment": "No cure; control pests with insecticides.",
+    "recommended_products": ["Imidacloprid", "Organic Insecticide"]
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "display_name": "Tomato — Mosaic Virus",
+    "description": "Virus causing mottled yellow-green leaves.",
+    "prevention": "Sanitize tools, remove infected plants.",
+    "treatment": "No cure; only prevent spreading.",
+    "recommended_products": ["Organic Insecticide"]
+  },
+  "Tomato_healthy": {
+    "display_name": "Tomato — Healthy",
+    "description": "No disease detected.",
+    "prevention": "Maintain proper watering & nutrition.",
+    "treatment": "None required.",
+    "recommended_products": []
+  }
+}
